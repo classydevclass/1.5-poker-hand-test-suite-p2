@@ -1,0 +1,13 @@
+{
+    "diff": true,
+    "extension": [
+        "ts",
+        "tsx"
+    ],
+    "package": "./package.json",
+    "timeout": "2000",
+    "watch-files": [
+        "/**/*.test.ts",
+        "/**/*.test.tsx"
+    ]
+}

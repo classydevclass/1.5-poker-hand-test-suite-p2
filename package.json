@@ -1,0 +1,27 @@
+{
+  "name": "poker-hand-test-suite-p2",
+  "version": "1.0.0",
+  "description": "Builds and checks poker hands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classydevclass/poker-hand-test-suite-p2.git"
+  },
+  "author": "The Classy Dev Class",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classydevclass/poker-hand-test-suite-p2/issues"
+  },
+  "homepage": "https://github.com/classydevclass/poker-hand-test-suite-p2#readme",
+  "devDependencies": {
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.11.6",
+    "mocha": "^9.1.3"
+  },
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
